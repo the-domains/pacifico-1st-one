@@ -1,0 +1,23 @@
+name: pacifico 1st one
+favicon: null
+layout_spectrum: 0.049720775336027145
+typography_spectrum: 0.2232935952488333
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8341896827332675
+  lightness: 0.12433926085941494
+  saturation: 0.88023486523889
+  rhythmicContrast: 0.5174660431221128
+purpose: []
