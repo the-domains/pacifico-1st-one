@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BLINK 2016]]></title>
         <description><![CDATA[BLINK 2016]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pacifico-1st-one/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 Nov 2015 17:29:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 08 Nov 2015 17:38:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pacifico-1st-one/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Geschichten</p>]]></description>
+            <link>http://blink365.de/</link>
+            <guid isPermaLink="false">dba56994-bb76-4257-b5c3-09a435955821</guid>
+            <pubDate>Sun, 08 Nov 2015 17:38:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[JEDEN TAG EIN BILD]]></title>
             <description><![CDATA[<article><h1>JEDEN TAG EIN BILD</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e776b956-0648-4d60-850a-cc7d67b01735.jpg"></article>]]></description>
-            <link>undefinedjeden-tag-ein-bild/index.html</link>
+            <link>https://thegrid.ai/pacifico-1st-one/jeden-tag-ein-bild/index.html</link>
             <guid isPermaLink="false">c44a1a6e-6f77-4bfd-8eb9-2d3c0436625a</guid>
             <pubDate>Sun, 08 Nov 2015 17:26:36 GMT</pubDate>
         </item>
